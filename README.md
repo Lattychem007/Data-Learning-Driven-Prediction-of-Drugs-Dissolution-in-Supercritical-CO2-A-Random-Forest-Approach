@@ -1,4 +1,6 @@
 # Machine-Learning-Driven-Prediction-of-Drugs-Dissolution-in-Supercritical-CO2-A-Random-Forest-Approach
+![Uploading image.png…]()
+
 # About Dataset
 This dataset was gathered specifically for my predictive modeling optimization project on drug dissolution in supercritical carbon dioxide (SCCO2). SCCO2 has been found to be the most commonly used supercritical fluid for various applications across scientific research and developments, most especially in Nano-technology. This project focuses on its application to drug formulation and extraction processes during pharmaceutical production. Estimating the solubility of a drug in SCCO2 helps to guide the formulation of the drug for improved drug delivery, especially for anticancer drugs. The dataset consist of experimental measured solubility of drugs over a diversified range of therapeutic classes.
 
