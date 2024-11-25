@@ -12,6 +12,7 @@ sol - equilibrium solubility (g/L)
 sol_mol_frac - equilibrium solubility in mole fraction
 
 ============================================================================
+
 #Introduction
 
 The solubility of pharmaceutical compounds in supercritical fluids, particularly supercritical CO2 (SCCO2), plays a pivotal role in various industrial applications, including drug formulation and delivery. Accurate prediction of solubility, expressed as a mole fraction (sol_mol_frac), under varying thermodynamic conditions such as temperature (temp) and pressure (press), is essential for optimizing these processes. Traditional experimental methods, while reliable, can be time-consuming and resource-intensive.
@@ -57,7 +58,9 @@ Trend: Mole fraction solubility is extremely low across the dataset. The highly 
 
 ======================================================================================
 
+
 **Conclusion**
+
 This study highlights the utility of machine learning, specifically the RandomForestRegressor, in predicting drug solubility in SCCO2 systems. Using temperature and pressure as primary predictors, the model achieved high accuracy, as evidenced by an R² of 0.899 on the test set. The results suggest that this model can serve as a reliable tool for estimating sol_mol_frac, thereby reducing the dependency on exhaustive experimental procedures.
 
 While the model performed well, the Mean Squared Error (MSE) on the test set (642.19) indicates potential areas for improvement, such as the inclusion of additional features (e.g., rho_scco2, mw_drug) or hyperparameter tuning. Future work could also explore the incorporation of advanced machine learning techniques and domain-specific feature engineering to further enhance predictive accuracy.
