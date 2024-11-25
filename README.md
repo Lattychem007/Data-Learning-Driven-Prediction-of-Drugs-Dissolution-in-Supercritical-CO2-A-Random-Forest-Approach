@@ -13,7 +13,7 @@ sol_mol_frac - equilibrium solubility in mole fraction
 
 ============================================================================
 
-#Introduction
+**Introduction**
 
 The solubility of pharmaceutical compounds in supercritical fluids, particularly supercritical CO2 (SCCO2), plays a pivotal role in various industrial applications, including drug formulation and delivery. Accurate prediction of solubility, expressed as a mole fraction (sol_mol_frac), under varying thermodynamic conditions such as temperature (temp) and pressure (press), is essential for optimizing these processes. Traditional experimental methods, while reliable, can be time-consuming and resource-intensive.
 
