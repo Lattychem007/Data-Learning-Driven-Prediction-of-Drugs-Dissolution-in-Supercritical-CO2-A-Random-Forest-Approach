@@ -34,8 +34,9 @@ The temperatures are concentrated around the median (328 K), with moderate varia
 Pressure (press):
 
 **Pressure**
-Range: 80 bar to 500 bar, with a mean of 239.01 bar.
-Trend: Pressure varies widely, indicating a diverse set of experimental conditions, but the median (243 bar) shows experiments tend to cluster around moderate pressures.
+- Range: 80 bar to 500 bar, with a mean of 239.01 bar.
+- Trend:
+Pressure varies widely, indicating a diverse set of experimental conditions, but the median (243 bar) shows experiments tend to cluster around moderate pressures.
 Molecular Weight of Drug (mw_drug):
 
 **Moleular Weight**
