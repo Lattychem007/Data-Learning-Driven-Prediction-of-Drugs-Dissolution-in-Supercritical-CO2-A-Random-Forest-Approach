@@ -1,6 +1,7 @@
 # Machine-Learning-Driven-Prediction-of-Drugs-Dissolution-in-Supercritical-CO2-A-Random-Forest-Approach
 
-![image](https://github.com/user-attachments/assets/338376fa-e490-4809-862b-615415a25b13)
+![image](https://github.com/user-attachments/assets/1be92c69-e072-4a8b-9936-233590677bdf)
+
 
 
 # About Dataset
