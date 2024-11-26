@@ -27,6 +27,7 @@ Machine learning approaches, such as Random Forest Regression, offer a promising
 The model demonstrated strong predictive capabilities, with an R² of 0.982 on the training set and 0.899 on the test set, indicating its effectiveness in capturing the solubility trends. These findings underscore the potential of machine learning to supplement experimental methods in advancing drug solubility research.
 
 **Data Trends and Insights**
+
 **Temperature (temp):**
 
 - Range: 303 K to 373.15 K, with a mean of 327.25 K.
