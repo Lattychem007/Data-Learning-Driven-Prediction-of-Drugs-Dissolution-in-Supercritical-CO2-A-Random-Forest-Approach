@@ -47,6 +47,7 @@ Pressure varies widely, indicating a diverse set of experimental conditions, but
 A broad range of molecular weights highlights the inclusion of a wide variety of drugs, with the median (289.38 g/mol) skewed slightly toward smaller molecules.
 
 **Melting Point of Drug (mp_drug):**
+
 -Range: 115 K to 608.15 K, with a mean of 406.09 K.
 - Trend:
 Moderate variability (standard deviation: 105.28 K) suggests a mix of low and high-melting-point drugs, with many clustered around the median (431.15 K).
@@ -57,12 +58,14 @@ Moderate variability (standard deviation: 105.28 K) suggests a mix of low and hi
 The density spans a large range, reflecting the impact of pressure and temperature on CO2 density. Most values are concentrated above 690 kg/m³, indicative of typical SCCO2 densities.
 
 **Solubility in mg/L (sol):**
+
 - Range: 0 to 43.8 mg/L, with a mean of 2.07 mg/L.
 - Trend:
 Highly skewed distribution, as the 75th percentile (1.31 mg/L) is far below the maximum (43.8 mg/L). This suggests a few drugs exhibit exceptionally high solubility, while most remain at low solubility levels.
 
 
 **Solubility in Mole Fraction (sol_mol_frac):**
+
 = Range: 0 to 0.021, with a mean of 0.000371.
 - Trend: 
 Mole fraction solubility is extremely low across the dataset. The highly skewed data distribution (median: 0.000054) suggests that only a few instances reach higher solubility.
